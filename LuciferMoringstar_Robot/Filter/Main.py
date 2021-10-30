@@ -323,7 +323,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🖥️ How To Own 🖥️', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('📢 Our channel 📢', url=f'https://t.me/cinemaottmovie')
                     ]
                     ]
                 
@@ -354,7 +354,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🖥️ How To Own 🖥️', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('🤓 our group 🤓', url=f'https://t.me/Cinemachanda')
                     ]
                     ]
                 
