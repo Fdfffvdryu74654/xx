@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🎖 DEPLOY YOURS 🎖', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('🎖 Our group 🎖', url=f'https://t.me/Cinemachanda')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -118,8 +118,8 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton("🔎Search ", switch_inline_query_current_chat='')
                 ],[
-                InlineKeyboardButton("Help", callback_data="help"),
-                InlineKeyboardButton("About", callback_data="about")
+                InlineKeyboardButton("🤗Help", callback_data="help"),
+                InlineKeyboardButton("⭕About", callback_data="about")
                 ]]
             )
         )
