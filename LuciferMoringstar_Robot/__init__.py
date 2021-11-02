@@ -22,7 +22,7 @@ Admin only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Cinema chanda](
+➥ Creator : [🎗️Cinema chanda🎗️](
 https://t.me/Cinemachanda)
 
 ➥ Language : Python3
